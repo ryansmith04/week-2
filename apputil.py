@@ -12,7 +12,7 @@ def ways(n):
         pennies = n - (nickels * 5)
 
 
-         if pennies >= 0:
+        if pennies >= 0:
             count += 1
 
 
