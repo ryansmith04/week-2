@@ -32,3 +32,4 @@ def sort_names(names, scores):
 
 
     return np.array(names)[index]
+
